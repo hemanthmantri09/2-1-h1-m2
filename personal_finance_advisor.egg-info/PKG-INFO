@@ -1,0 +1,17 @@
+Metadata-Version: 2.4
+Name: personal_finance_advisor
+Version: 1.0.0
+Summary: Soft Computing-Based Personal Finance Advisor using Fuzzy Logic
+Author: Your Name
+Requires-Python: >=3.8
+Requires-Dist: numpy>=1.24.3
+Requires-Dist: pandas>=2.0.3
+Requires-Dist: scikit-fuzzy>=0.4.2
+Requires-Dist: matplotlib>=3.7.1
+Requires-Dist: seaborn>=0.12.2
+Requires-Dist: pyyaml>=6.0
+Requires-Dist: flask>=2.3.2
+Dynamic: author
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
